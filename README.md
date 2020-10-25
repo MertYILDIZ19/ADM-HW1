@@ -8,5 +8,5 @@ The solutions for the python challenges on HackerRank grouped by the subdomains 
 ### Question2
 The solution/implementation of some algorithms in Python provided by HackerRank.
 
-## Hw1_stamps.pdf
+## Hw1_Stamps_Screenshots.pdf
 This pdf contains the screenshots for the HackerRank Submissions.
